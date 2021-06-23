@@ -1,1 +1,4 @@
 # notes
+### schetsheet
+### roadmap
+### awesome 
